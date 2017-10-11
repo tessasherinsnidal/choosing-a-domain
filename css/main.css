@@ -19,5 +19,5 @@ html {
 }
 
 a:hover {
-  color: #7c9ca9;
+  transition: opacity 200ms ease-in-out;
 }
